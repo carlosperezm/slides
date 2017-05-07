@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>My first with org-reveal</title>
+<meta name="author" content="(Carlos Perez)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="/home/carlosperez/Documents/slides/reveal.js/css/reveal.css"/>
+
+<link rel="stylesheet" href="/home/carlosperez/Documents/slides/reveal.js/css/theme/sky.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = '/home/carlosperez/Documents/slides/reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1 class="title">My first with org-reveal</h1><h2 class="author">Carlos Perez</h2><p class="date">Created: 2017-05-07 Sun 17:34</p>
+</section>
+
+
+<section>
+<section id="slide-org37bcce1">
+<h2 id="org37bcce1"><span class="section-number-2">1</span> First section</h2>
+<p>
+This is an image
+</p>
+
+
+<div class="figure">
+<p><img src="./images/holiday.jpg" alt="holiday.jpg" height="200%," width="200%" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-org6fced54">
+<h2 id="org6fced54"><span class="section-number-2">2</span> Tables</h2>
+<p>
+<code>org tables</code> are also exported properly, although I found they look better when stretched to fill the screen:
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides" width="100%">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">column<sub>title1</sub></th>
+<th scope="col" class="org-left">column<sub>title2</sub></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">a</td>
+<td class="org-left">b</td>
+</tr>
+
+<tr>
+<td class="org-left">a</td>
+<td class="org-left">b</td>
+</tr>
+
+<tr>
+<td class="org-left">a</td>
+<td class="org-left">b</td>
+</tr>
+</tbody>
+</table>
+
+</section>
+</section>
+<section>
+<section id="slide-orgfb20838">
+<h2 id="orgfb20838"><span class="section-number-2">3</span> Equation</h2>
+<p>
+Some math included
+</p>
+
+<p>
+\[
+  \int_a^b f(x)\, \mathrm{d}x \approx (b-a)
+  \sum_{i=0}^{n} w_{i} f(x_{i})
+\]
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-org9ec3fb0">
+<h2 id="org9ec3fb0"><span class="section-number-2">4</span> Code</h2>
+<p>
+Python code
+</p>
+
+<div class="org-src-container">
+
+<pre  class="src src-python"><span style="color: #859900; font-weight: bold;">print</span>(<span style="color: #2aa198;">"Hello world"</span>)
+</pre>
+</div>
+</section>
+</section>
+</div>
+</div>
+<script src="/home/carlosperez/Documents/slides/reveal.js/lib/js/head.min.js"></script>
+<script src="/home/carlosperez/Documents/slides/reveal.js/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+margin: 0.20,
+minScale: 0.50,
+maxScale: 2.50,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'none', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: '/home/carlosperez/Documents/slides/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: '/home/carlosperez/Documents/slides/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: '/home/carlosperez/Documents/slides/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: '/home/carlosperez/Documents/slides/reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: '/home/carlosperez/Documents/slides/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>

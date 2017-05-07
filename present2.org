@@ -1,0 +1,44 @@
+#+REVEAL_MARGIN: 0.2
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: sky
+#+OPTIONS: toc:nil :num:nil
+
+
+#+TITLE: My first presentation with org-reveal
+#+AUTHOR: Carlos Perez
+#+EMAIL: carlos.perez@materialise.com.co
+
+
+* First section
+This is an image
+
+#+ATTR_HTML: :height 200%, :width 200%
+[[./images/holiday.jpg]]
+
+* Tables
+~org tables~ are also exported properly, although I found they look better when stretched to fill the screen:
+
+#+ATTR_HTML: :width 100%
+| column_title1  | column_title2 |
+|----------------+---------------|
+| a              | b             |
+| a              | b             |
+| a              | b             |
+
+* Equation
+
+Some math included
+
+\[
+  \int_a^b f(x)\, \mathrm{d}x \approx (b-a)
+  \sum_{i=0}^{n} w_{i} f(x_{i})
+\]
+
+* Code
+Python code
+
+#+BEGIN_SRC python
+print("Hello world")
+#+END_SRC
