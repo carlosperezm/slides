@@ -1,0 +1,29 @@
+#    -*- mode: org -*-
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+OPTIONS: reveal_title_slide:""
+
+#+REVEAL_MARGIN: 0.2
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: default
+#+REVEAL_THEME: moon
+#+REVEAL_HLEVEL: 999
+#+REVEAL_EXTRA_CSS: ./presentation.css
+#+REVEAL_TITLE_SLIDE_BACKGROUND: ./images/arrival_main.jpg
+#+REVEAL_TITLE_SLIDE_BACKGROUND_SIZE: 100%
+#+REVEAL_TITLE_SLIDE_BACKGROUND_TRANSITION: repeat 
+
+#+TITLE: Arrival - the movie
+#+AUTHOR: Carlos Pérez
+#+EMAIL: carlos.perez@materialise.com.co
+
+
+* If you could see your whole life laid out in front of you, would you change things? 
+
+* An image                                                         :noexport:
+
+#+ATTR_HTML: :height 200%, :width 200%
+[[./images/holiday.jpg]]
