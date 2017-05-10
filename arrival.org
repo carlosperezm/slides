@@ -1,3 +1,4 @@
+
 #    -*- mode: org -*-
 #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
 #+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
@@ -21,9 +22,116 @@
 #+EMAIL: carlos.perez@materialise.com.co
 
 
-* If you could see your whole life laid out in front of you, would you change things? 
+* Guidelines                                                       :noexport:
+1. What is the title of the film?
 
-* An image                                                         :noexport:
+2. What genre is it?
 
-#+ATTR_HTML: :height 200%, :width 200%
-[[./images/holiday.jpg]]
+3. What is it about?
+
+4. Where is the film set?
+
+5. When is the film set?
+
+6. Who stars in the film?
+
+7. Who plays the main role(s)?
+
+8. Who is your favourite character in the film? (Why?)
+
+9. What kind of person would like this film? (Why?)
+
+10. Why do you like it?
+
+11. What is the point of this film? Is it for entertainment or does it send a message?
+
+* Ideas                                                            :noexport:
+
+https://www.theverge.com/2016/11/16/13642396/arrival-ted-chiang-story-of-your-life-film-twist-ending
+
+ - It is not a typical sci-fi movie where some aliens arrive at the Earth to
+   conquer us with an antropical shape. It is a sci-fi film that didn't end
+   with a massive, non-consequential space, robot or monster battle.
+
+ - It shows a realistic situation where some aliens arrive and we need to
+   decode the basics of their language in order to communicate with them.
+
+ - “If you could see your whole life laid out in front of you, would you change
+   things?” she asks her future husband Ian Donnelly. Put another way, would
+   you rob someone of their existence, and yourself of the time shared with
+   them on Earth, if you knew they would one day would feel pain, and you would
+   feel their loss?
+
+ - The language we speak affects how our brain works
+
+ - We as humans are made of our memories and defined by our choices
+
+ - Arrival isn’t about time travel. It’s also not a commentary on
+   gene-modification, abortion, or any other hot-button topic about using our
+   foresight into the future to force our present path to diverge. It’s about
+   acceptance, understanding our life’s choices, and living as if any one
+   moment were as valuable or meaningful as the next.
+
+ - Remarks about time in [[https://www.quora.com/In-Arrival-will-Ian-still-leave-Louise-now-that-the-aliens-have-come-and-gone-Why-cant-Louise-change-her-actions-so-that-Ian-doesnt-leave][quora]]
+
+ - About arrival ending:
+   [[http://www.denofgeek.com/us/movies/arrival/259944/explaining-the-arrival-ending]]
+
+* If you could see your whole life laid out in front of you, would you change things?
+#+BEGIN_NOTES
+After aliens land at twelve sites across the world, respected linguist Louise
+Banks is recruited to decipher their language and uncover the purpose of their
+arrival. As Louise immerses herself in their language, she gains the ability to
+experience time non-linearly, allowing her to see her future. Eventually, she
+can understand the real reason why the aliens came, which profoundly changes
+the world forever.
+
+It is not a typical sci-fi movie where some aliens arrive at the Earth to
+conquer us with an antropical shape. It is a sci-fi film that didn't end with a
+massive, non-consequential space, robot or monster battle.
+
+#+END_NOTES
+
+* Suddenly, life is not a simple linear story
+#+BEGIN_NOTES
+She asks her future husband Ian Donnelly. Put another way, would you rob
+someone of their existence, and yourself of the time shared with them on Earth,
+if you knew they would one day would feel pain, and you would feel their loss?
+#+END_NOTES
+
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 65%, :width 70%
+[[./images/LouiseDaughter1.png]]
+
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 65%, :width 70%
+[[./images/LouiseDaughter2.png]]
+
+* A female heroin
+** Like her?
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 90%, :width 90%
+[[./images/strongChar.jpg]]
+
+** Not a typical one
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 90%, :width 90%
+[[./images/Louise.jpg]]
+
+
+#+BEGIN_NOTES
+https://comicsverse.com/arrival-female-character/
+
+She is not the typical female character with male character. He was a strong
+female character because she was not intended to be one. She was not always
+strong. She was herself.
+We see what she is made of in the first two minutes of the film
+
+She pushes herself to the limits, even if she feels weak or too scared.
+
+And despite knowing her baby will die and her husband will leave her, she
+musters the strength to choose happiness, even if it is limited.
+
+And she is a brilliant academist, with a prestigious position.
+
+#+END_NOTES
