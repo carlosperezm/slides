@@ -1,5 +1,9 @@
-
 #    -*- mode: org -*-
+
+#+TITLE: Arrival - the movie
+#+AUTHOR: Carlos Pérez
+#+EMAIL: carlos.perez@materialise.com.co
+
 #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
 #+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
 #+OPTIONS: reveal_width:1200 reveal_height:800
@@ -17,9 +21,7 @@
 #+REVEAL_TITLE_SLIDE_BACKGROUND_SIZE: 100%
 #+REVEAL_TITLE_SLIDE_BACKGROUND_TRANSITION: repeat 
 
-#+TITLE: Arrival - the movie
-#+AUTHOR: Carlos Pérez
-#+EMAIL: carlos.perez@materialise.com.co
+
 
 
 * Guidelines                                                       :noexport:
@@ -92,20 +94,15 @@ massive, non-consequential space, robot or monster battle.
 
 #+END_NOTES
 
-* Suddenly, life is not a simple linear story
-#+BEGIN_NOTES
-She asks her future husband Ian Donnelly. Put another way, would you rob
-someone of their existence, and yourself of the time shared with them on Earth,
-if you knew they would one day would feel pain, and you would feel their loss?
-#+END_NOTES
-
+* The aliens arrive
 #+ATTR_REVEAL: :frag t
-#+ATTR_HTML: :height 65%, :width 70%
-[[./images/LouiseDaughter1.png]]
+#+ATTR_HTML: :height 100%, :width 100%
+[[./images/movie2.png]]
 
+* A new language
 #+ATTR_REVEAL: :frag t
-#+ATTR_HTML: :height 65%, :width 70%
-[[./images/LouiseDaughter2.png]]
+#+ATTR_HTML: :height 100%, :width 100%
+[[./images/movie1.png]]
 
 * A female heroin
 ** Like her?
@@ -133,5 +130,34 @@ And despite knowing her baby will die and her husband will leave her, she
 musters the strength to choose happiness, even if it is limited.
 
 And she is a brilliant academist, with a prestigious position.
-
 #+END_NOTES
+
+* Ian Donnelly
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 100%, :width 100%
+[[./images/IanDonnelly.jpg]]
+
+* Colonel Weber
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 100%, :width 100%
+[[./images/colonel.jpg]]
+
+* Abbot and Costello
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 100%, :width 100%
+[[./images/AbbotCos.png]]
+
+* Suddenly, life is not a simple linear story
+#+BEGIN_NOTES
+She asks her future husband Ian Donnelly. Put another way, would you rob
+someone of their existence, and yourself of the time shared with them on Earth,
+if you knew they would one day would feel pain, and you would feel their loss?
+#+END_NOTES
+
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 65%, :width 70%
+[[./images/LouiseDaughter1.png]]
+
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 65%, :width 70%
+[[./images/LouiseDaughter2.png]]
