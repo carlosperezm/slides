@@ -1,0 +1,114 @@
+#    -*- mode: org -*-
+
+#+TITLE: Oliver Twist
+#+AUTHOR: Carlos Pérez
+#+EMAIL: carlos.perez@materialise.com.co
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+OPTIONS: reveal_title_slide:""
+
+#+REVEAL_MARGIN: 0.2
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: default
+#+REVEAL_THEME: moon
+#+REVEAL_HLEVEL: 999
+#+REVEAL_EXTRA_CSS: ./presentation.css
+#+REVEAL_TITLE_SLIDE_BACKGROUND: ./images/oliver/Oliver-main.jpg
+#+REVEAL_TITLE_SLIDE_BACKGROUND_SIZE: 40%
+#+REVEAL_TITLE_SLIDE_BACKGROUND_TRANSITION: repeat 
+
+
+
+
+* Guidelines                                                       :noexport:
+1. Title
+2. Genre
+3. Main characters
+4. Plot
+5. Conclusion
+6. What did you like about it?
+7. What did not you like about it?
+8. New vocabulary
+
+* Ideas                                                            :noexport:
+ - THis book is a costumbrist story that takes place in the United Kingdom in
+   the XVIII century.
+
+* Our all our lives completely shaped by our childhood?
+#+BEGIN_NOTES
+
+#+END_NOTES
+
+* Alone since he was born
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 50%, :width 60%
+[[./images/oliver/1born.jpg]]
+
+* Living under Mrs Mann
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 50%, :width 60%
+[[./images/oliver/2MrsMann.jpg]]
+
+* Escaping from the coffins
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 30%, :width 40%
+[[./images/oliver/3coffins.jpg]]
+
+* Little Dick
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 50%, :width 60%
+[[./images/oliver/4littleDick.jpg]]
+
+* A band of thieves
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 50%, :width 60%
+[[./images/oliver/5thieves.jpg]]
+
+* Oliver is trapped and rescued
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 50%, :width 60%
+[[./images/oliver/6rescued.jpg]]
+
+* Back to robbery
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 50%, :width 60%
+[[./images/oliver/7back.jpg]]
+
+* Fortune finally smiles on Oliver
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 50%, :width 60%
+[[./images/oliver/8fortune.jpg]]
+
+* A secret is revealed
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 50%, :width 60%
+[[./images/oliver/9secret.jpg]]
+
+* Nancy and Rose
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 50%, :width 60%
+[[./images/oliver/10Nancy_Rose.jpg]]
+
+* The pieces fall together
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 100%, :width 100%
+[[./images/oliver/11end.jpg]]
+
+* Suddenly, life is not a simple linear story                      :noexport:
+#+BEGIN_NOTES
+She asks her future husband Ian Donnelly. Put another way, would you rob
+someone of their existence, and yourself of the time shared with them on Earth,
+if you knew they would one day would feel pain, and you would feel their loss?
+#+END_NOTES
+
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 65%, :width 70%
+[[./images/LouiseDaughter1.png]]
+
+#+ATTR_REVEAL: :frag t
+#+ATTR_HTML: :height 65%, :width 70%
+[[./images/LouiseDaughter2.png]]

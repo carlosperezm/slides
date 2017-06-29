@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Oliver Twist</title>
+<meta name="author" content="(Carlos Pérez)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="./css/reveal.css"/>
+
+<link rel="stylesheet" href="./css/theme/moon.css" id="theme"/>
+
+<link rel="stylesheet" href="./presentation.css"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide" data-background="./images/oliver/Oliver-main.jpg" data-background-size="40%" data-background-transition="repeat">
+</section>
+
+
+
+
+<section>
+<section id="slide-org6037f14">
+<h2 id="org6037f14">Our all our lives completely shaped by our childhood?</h2>
+<aside class="notes">
+<p>
+
+</p>
+
+</aside>
+
+</section>
+</section>
+<section>
+<section id="slide-org7f519b1">
+<h2 id="org7f519b1">Alone since he was born</h2>
+
+<div class="figure">
+<p><img src="./images/oliver/1born.jpg" alt="1born.jpg" class="fragment" height="50%," width="60%" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-org1cc8d36">
+<h2 id="org1cc8d36">Living under Mrs Mann</h2>
+
+<div class="figure">
+<p><img src="./images/oliver/2MrsMann.jpg" alt="2MrsMann.jpg" class="fragment" height="50%," width="60%" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-org4885f4e">
+<h2 id="org4885f4e">Escaping from the coffins</h2>
+
+<div class="figure">
+<p><img src="./images/oliver/3coffins.jpg" alt="3coffins.jpg" class="fragment" height="30%," width="40%" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-org891e898">
+<h2 id="org891e898">Little Dick</h2>
+
+<div class="figure">
+<p><img src="./images/oliver/4littleDick.jpg" alt="4littleDick.jpg" class="fragment" height="50%," width="60%" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-org404d905">
+<h2 id="org404d905">A band of thieves</h2>
+
+<div class="figure">
+<p><img src="./images/oliver/5thieves.jpg" alt="5thieves.jpg" class="fragment" height="50%," width="60%" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-org85ff675">
+<h2 id="org85ff675">Oliver is trapped and rescued</h2>
+
+<div class="figure">
+<p><img src="./images/oliver/6rescued.jpg" alt="6rescued.jpg" class="fragment" height="50%," width="60%" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-orgf150557">
+<h2 id="orgf150557">Back to robbery</h2>
+
+<div class="figure">
+<p><img src="./images/oliver/7back.jpg" alt="7back.jpg" class="fragment" height="50%," width="60%" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-org1ab0858">
+<h2 id="org1ab0858">Fortune finally smiles on Oliver</h2>
+
+<div class="figure">
+<p><img src="./images/oliver/8fortune.jpg" alt="8fortune.jpg" class="fragment" height="50%," width="60%" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-org9125d48">
+<h2 id="org9125d48">A secret is revealed</h2>
+
+<div class="figure">
+<p><img src="./images/oliver/9secret.jpg" alt="9secret.jpg" class="fragment" height="50%," width="60%" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-org76640b4">
+<h2 id="org76640b4">Nancy and Rose</h2>
+
+<div class="figure">
+<p><img src="./images/oliver/10Nancy_Rose.jpg" alt="10Nancy_Rose.jpg" class="fragment" height="50%," width="60%" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-org82d2fd8">
+<h2 id="org82d2fd8">The pieces fall together</h2>
+
+<div class="figure">
+<p><img src="./images/oliver/11end.jpg" alt="11end.jpg" class="fragment" height="100%," width="100%" />
+</p>
+</div>
+</section>
+</section>
+</div>
+</div>
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: true,
+center: true,
+slideNumber: 'c',
+rollingLinks: true,
+keyboard: true,
+overview: true,
+width: 1200,
+height: 800,
+margin: 0.20,
+minScale: 0.50,
+maxScale: 2.50,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>
