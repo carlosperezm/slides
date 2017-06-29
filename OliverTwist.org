@@ -43,6 +43,26 @@
 
 #+END_NOTES
 
+* Characters 
+- Oliver
+- Mr. Brownlow
+- Mrs. Maylie
+- Rose Maylie
+- Fagin
+- Bill Sikes
+- Nancy
+- Monks
+- Mr. Bumble
+- Mrs. Corney
+- Mrs. Bedwin
+- Mr. Losberne
+- Mrs. Mann
+- Mr. Sowerberry
+- Jack Dawkins(The artful Dodger)
+- Old Sally
+- Agnes Fleming
+- Mr. Leeford
+
 * Alone since he was born
 #+ATTR_REVEAL: :frag t
 #+ATTR_HTML: :height 50%, :width 60%
@@ -97,6 +117,16 @@
 #+ATTR_REVEAL: :frag t
 #+ATTR_HTML: :height 100%, :width 100%
 [[./images/oliver/11end.jpg]]
+
+* Vocabulary
+ - Workhouse :: Old an plain building where poor people and orphans are sent
+ - Parish :: In UK, the smallest unit of local government
+ - Beadle :: in the past, an officer of the law who dealt with small offences
+             in a local area
+ - Undertaker :: a person whose business is to prepare the dead to be buried or
+                 cremated and to organize funerals
+ - Ditch :: a long, narrow, open channel dug in the ground, used esp. for
+            supplying or removing water
 
 * Suddenly, life is not a simple linear story                      :noexport:
 #+BEGIN_NOTES
